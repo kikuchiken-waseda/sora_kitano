@@ -1,5 +1,4 @@
-# sora_kitano
----
+# sora_kitano  
 あ
 ---
 い  
